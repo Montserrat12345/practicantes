@@ -1,0 +1,7 @@
+import os
+
+print "Hola Mundo en python"
+
+a = 2
+
+print a 
